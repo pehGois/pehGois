@@ -1,4 +1,4 @@
-# HI!
+# Hello There!
 <h3>Skills</h3>
 <div>
 <img align="center" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" height="32"/>
