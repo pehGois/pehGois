@@ -7,16 +7,17 @@
   <img src='https://img.shields.io/badge/SQL-FFA200?style=for-the-badge&logo=mysql&logoColor=white'/>
   <img src='https://img.shields.io/badge/-ReactJs-blue?style=for-the-badge&logo=react&logoColor=white'/>
   <img src='https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white'/>
-  <img src='https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white' />
+  <img src='https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white' />
 
 </div>
 
 ## Atualmente Estudando:
 
 <div>
-    <img src='https://img.shields.io/badge/Kotlin-orange?style=for-the-badge&logo=kotlin&logoColor=white'/>
     <img src='https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=java&logoColor=white'/>
-    <img src ='https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white'/>
+    <img src='https://img.shields.io/badge/TypeScrypt-blue?style=for-the-badge&logo=java&logoColor=white'/>
+    <img src='https://img.shields.io/badge/C++-green?style=for-the-badge&logo=java&logoColor=white'/>
+
 </div>
 
 ## Contatos
